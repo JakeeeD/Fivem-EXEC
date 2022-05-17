@@ -1,0 +1,54 @@
+﻿  Hex Project.cpp
+C:\Users\NeverKillMe\source\repos\Hex Project\newauth.h(9,1): warning C4005: '_CRT_SECURE_NO_WARNINGS' : redéfinition de macro
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp : message : voir la définition précédente de '_CRT_SECURE_NO_WARNINGS'
+C:\Users\NeverKillMe\source\repos\Hex Project\newauth.h(31,26): warning C4305: 'argument' : troncation de '__int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\newauth.h(31,15): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\NeverKillMe\source\repos\Hex Project\newauth.h(35,26): warning C4305: 'argument' : troncation de '__int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\newauth.h(35,15): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\NeverKillMe\source\repos\Hex Project\newauth.h(39,26): warning C4305: 'argument' : troncation de '__int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\newauth.h(39,15): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\NeverKillMe\source\repos\Hex Project\newauth.h(43,26): warning C4305: 'argument' : troncation de '__int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\newauth.h(43,15): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\NeverKillMe\source\repos\Hex Project\newauth.h(56,26): warning C4305: 'argument' : troncation de '__int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\newauth.h(56,15): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\NeverKillMe\source\repos\Hex Project\newauth.h(80,26): warning C4305: 'argument' : troncation de '__int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\newauth.h(80,15): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\NeverKillMe\source\repos\Hex Project\newauth.h(84,26): warning C4305: 'argument' : troncation de '__int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\newauth.h(84,15): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\NeverKillMe\source\repos\Hex Project\newauth.h(93,26): warning C4305: 'argument' : troncation de '__int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\newauth.h(93,15): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(122,90): warning C4552: '+' : résultat de l'expression non utilisé
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(146,90): warning C4552: '+' : résultat de l'expression non utilisé
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(170,90): warning C4552: '+' : résultat de l'expression non utilisé
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(194,90): warning C4552: '+' : résultat de l'expression non utilisé
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(214,125): warning C4552: '+' : résultat de l'expression non utilisé
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(277,3): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(396,24): warning C4305: 'argument' : troncation de '__int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(396,9): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(401,27): warning C4305: 'argument' : troncation de '__int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(401,9): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(418,28): warning C4305: 'argument' : troncation de 'unsigned __int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(418,9): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(427,28): warning C4305: 'argument' : troncation de 'unsigned __int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(427,9): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(433,23): warning C4305: 'argument' : troncation de '__int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(433,9): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(460,23): warning C4305: 'argument' : troncation de '__int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(460,9): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(472,23): warning C4305: 'argument' : troncation de '__int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(472,9): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(483,23): warning C4305: 'argument' : troncation de '__int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(483,9): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(494,23): warning C4305: 'argument' : troncation de '__int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(494,9): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(505,23): warning C4305: 'argument' : troncation de '__int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(505,9): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(515,23): warning C4305: 'argument' : troncation de '__int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(515,9): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(523,24): warning C4305: 'argument' : troncation de '__int64' à 'DWORD'
+C:\Users\NeverKillMe\source\repos\Hex Project\Hex Project.cpp(523,9): warning C4309: 'argument' : troncation de valeur de constante
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 674 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  Hex Project.vcxproj -> C:\Users\NeverKillMe\source\repos\Hex Project\x64\Release\Hex Project.exe
