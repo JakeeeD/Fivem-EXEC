@@ -26,7 +26,9 @@ HEX PROJECT / SOME SOURCE CODE SHOW IT'S LEGIT ONLY. IF YOU WANT FULL VERSION, C
 
 🌐・ **Website** : https://sarnax.xyz
 
-🐵・**We** have a backup server base and many main servers and we are **LEGIT**
+🐵・**We** have a backup server base and many
+
+main servers and we are **LEGIT**
 
  ```sh-session
 MY CHEATS , YOU CAN PLAY ON THE MAIN ACCOUT. IT WON"T GET YOU BANNED :) / DM TO BUY 
